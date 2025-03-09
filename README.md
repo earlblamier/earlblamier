@@ -26,24 +26,23 @@ I have over 10 years of experience in IT, with a diverse background in software 
 Here are some of the projects I’ve worked on:
 
 ### 1. **CareerCloud**
-- **Description**: A brief description of what the project does.
+- **Description**: Unit Testing for a cloud-based career management platform.
 - **Technologies**: C#, .NET, SQL, Entity Framework, gRPC, RESTful API, Docker
 - **Link**: https://github.com/earlblamier/CareerCloud
 - **Repo**: https://github.com/earlblamier/CareerCloud
 
-### 2. **[Project Name]**
-- **Description**: A brief description of what the project does.
+### 2. **PDF Organizer**
+- **Description**: Extract data and organize PDF Pages using Python and Tesseract OCR.
 - **Technologies**: Python, DJango, Postman, gRPC
 - **Link**: TBA
 - **Repo**: TBA
 
-### 3. **[Project Name]**
-- **Description**: A brief description of what the project does.
+### 3. **One Page Angular Web Page Template**
+- **Description**: A starter Angular project for one page.
 - **Technologies**: Angular, Firebase, Node.js, Docker
 - **Link**: https://github.com/earlblamier/angular-web-project
 - **Repo**: https://github.com/earlblamier/angular-web-project
 
-*(Add more projects as needed)*
 
 ## Skills
 
@@ -69,7 +68,7 @@ Here are some of the projects I’ve worked on:
 - **Email**: earl@helionfrost.com
 - **LinkedIn**: [https://www.linkedin.com/in/earl-lamier](https://www.linkedin.com/in/earl-lamier)
 - **Website**: www.earl-lamier.dev
-- **Twitter**: earlblamier
+- **Twitter**: www.twitter.com/earlblamier
 
 Feel free to explore my repositories and projects. I’m always open to collaborating on new ideas and contributing to innovative solutions. Thank you for visiting my portfolio!
 =======
