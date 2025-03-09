@@ -64,11 +64,8 @@ Here are some of the projects I’ve worked on:
 
 Feel free to explore my repositories and projects. I’m always open to collaborating on new ideas and contributing to innovative solutions. Thank you for visiting my portfolio!
 =======
-# Earl-Lamier
-About Earl Lamier
+[# Earl-Lamier](https://github.com/earlblamier)
 
-=======
-## Hi there 👋
 
 <!--
 **earlblamier/earlblamier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
