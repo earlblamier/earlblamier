@@ -1,4 +1,4 @@
-# Earl Lamier's Software Engineering Portfolio
+# Earl Lamier
 
 Welcome to my GitHub repository! I’m Earl Lamier, a Junior Software Engineer with expertise in Python, C#, .NET, and web development. I am passionate about creating solutions that improve efficiency and security through technology. Currently, I'm specializing in Full Stack .NET development with a focus on building secure, scalable applications.
 
