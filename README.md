@@ -40,7 +40,6 @@ Here are some of the projects I’ve worked on:
 ### 1. **CareerCloud**
 - **Description**: Unit Testing for a cloud-based career management platform.
 - **Technologies**: C#, .NET, SQL, Entity Framework, gRPC, RESTful API, Docker
-- **Link**: https://github.com/earlblamier/CareerCloud
 - **Repo**: https://github.com/earlblamier/CareerCloud
 
 ### 2. **PDF Organizer**
