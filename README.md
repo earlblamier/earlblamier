@@ -50,6 +50,7 @@ Here are some of the projects I’ve worked on:
 ### 3. **One Page Angular Web Page Template**
 - **Description**: A starter Angular project for one page.
 - **Technologies**: Angular, Firebase, Node.js, Docker
+- **Demo**: https://angular-web-project.vercel.app/
 - **Repo**: https://github.com/earlblamier/angular-web-project
 
 
