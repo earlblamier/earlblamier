@@ -46,13 +46,11 @@ Here are some of the projects I’ve worked on:
 ### 2. **PDF Organizer**
 - **Description**: Extract data and organize PDF Pages using Python and Tesseract OCR.
 - **Technologies**: Python, DJango, Postman, gRPC
-- **Link**: TBA
-- **Repo**: TBA
+- **Repo**: https://github.com/earlblamier/pdf-organizer
 
 ### 3. **One Page Angular Web Page Template**
 - **Description**: A starter Angular project for one page.
 - **Technologies**: Angular, Firebase, Node.js, Docker
-- **Link**: https://github.com/earlblamier/angular-web-project
 - **Repo**: https://github.com/earlblamier/angular-web-project
 
 
